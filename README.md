@@ -6,11 +6,3 @@ Readme:
 ## Ссылка на GitHub
 https://github.com/Justake565/ono-tebe-nado-ad
 
-## Технологии
-- HTML5
-- CSS3 (Flexbox, Grid)
-- Методология БЭМ
-- Адаптивный дизайн
-
-## Запуск
-Открыть файл `index.html` в браузере
